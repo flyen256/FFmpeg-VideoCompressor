@@ -1,11 +1,11 @@
 # Using
-Place your video in **input** folder\n
-Select your file in console\n
-Type a needed size as number in MB (MegaBytes)\n
+Place your video in **input** folder<br/>
+Select your file in console<br/>
+Type a needed size as number in MB (MegaBytes)<br/>
 And wait
 
 # Как использовать
-Поместите ваше видео в папку **input**\n
-Выберите ваш файл в консоли\n
-Напишите нужный размер файла в МБ(МегаБайты)\n
+Поместите ваше видео в папку **input**<br/>
+Выберите ваш файл в консоли<br/>
+Напишите нужный размер файла в МБ(МегаБайты)<br/>
 И ждите
